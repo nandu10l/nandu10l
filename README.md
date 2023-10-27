@@ -1,14 +1,4 @@
 ### Hi there 👋
-<p align="center">
- 
-</p align="center">
-<img src="https://github.com/nandu10l/nandu10l/blob/main/images/github-header-image.png" />
-
-
-
-<!-- <p align="center">
-  bio.
-</p>   -->
 
 <!--
 **nandu10l/nandu10l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
